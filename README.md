@@ -64,7 +64,7 @@ Install Microsoft Visual Code C++
 
 ![Lab2-8](https://github.com/user-attachments/assets/a6a9d6c4-a54f-40fe-be3c-2b2758754c2a)
 
-When At MySQL Server accept the terms and continue, click on typical installation and install. When finished you will reach the setup wizard for MySQL.
+When At MySQL Server accept the terms and continue, click on typical installation and install. When finished you will reach the setup wizard for MySQL. MySQL will act as our database and store all ticket information, user details, logs and attachments, etc.
 
 ![Lab2-9](https://github.com/user-attachments/assets/e1dfc8fd-651a-442d-98ca-87ceefcd6b3d)
 
