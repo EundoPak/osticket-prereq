@@ -88,6 +88,18 @@ Go to search bar and type "IIS" and run the application as an administrator.
 
 ![Lab2-15](https://github.com/user-attachments/assets/c959cc2f-4bbe-42d6-8fb0-e64a8bbed194)
 
+![Lab2-16](https://github.com/user-attachments/assets/c9ef52f1-3a47-487b-81aa-06b1beb6380a)
+
+![Lab2-17](https://github.com/user-attachments/assets/1acf2cdf-83db-4659-859f-f8b3768a13bc)
+
+![Lab2-18](https://github.com/user-attachments/assets/f5e1366d-f137-47f4-b7be-e9a4b8fee610)
+
+![Lab2-19](https://github.com/user-attachments/assets/53c34376-8cfd-4a4e-87f2-1cfc9398df87)
+
+![Lab2-20](https://github.com/user-attachments/assets/e677671e-61f1-4094-b163-3e34d5389fbd)
+
+
+
 
 
 
