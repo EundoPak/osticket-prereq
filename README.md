@@ -84,13 +84,19 @@ Go to search bar and type "IIS" and run the application as an administrator.
 
 ![Lab2-13](https://github.com/user-attachments/assets/532a62f9-1d07-499a-b7aa-6f6e9b444652)
 
+Open PHP Manager and select "Register new PHP version". Enter the path towards the new PHP folder and specify "php-cgi.exe". Now restart the IIS by first pressing stop and then start.
+
 ![Lab2-14](https://github.com/user-attachments/assets/a2e18a17-f859-4660-b252-d7d9d21ef117)
 
 ![Lab2-15](https://github.com/user-attachments/assets/c959cc2f-4bbe-42d6-8fb0-e64a8bbed194)
 
+Extract osTicket-v-1.15.8. After extracting, open the unzipped folder and move the folder named "upload" inside the "wwwroot" folder. Rename "upload" folder to "osTicket" and save.
+
 ![Lab2-16](https://github.com/user-attachments/assets/c9ef52f1-3a47-487b-81aa-06b1beb6380a)
 
 ![Lab2-17](https://github.com/user-attachments/assets/1acf2cdf-83db-4659-859f-f8b3768a13bc)
+
+In IIS navigate to the left hand side and expand "OSTicket-vm" -> expand "Sites" -> expand "Default Web Site" -> click "osTicket". Then click "Browse *.80 (http)" to open the local site for osTicket.
 
 ![Lab2-18](https://github.com/user-attachments/assets/f5e1366d-f137-47f4-b7be-e9a4b8fee610)
 
