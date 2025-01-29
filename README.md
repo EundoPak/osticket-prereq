@@ -100,7 +100,7 @@ In IIS navigate to the left hand side and expand "OSTicket-vm" -> expand "Sites"
 
 ![Lab2-18](https://github.com/user-attachments/assets/f5e1366d-f137-47f4-b7be-e9a4b8fee610)
 
-Select "Enable or disable an extension" and enable the following: "php_imap_dll", "php_intll.dll" & "php_opcache.dll". Now the necessary plugins are on and we can proceed.
+Select "Enable or disable an extension" and enable the following: "php_imap_dll", "php_intll.dll" & "php_opcache.dll". Now the necessary plugins are installed and we can proceed.
 
 ![Lab2-19](https://github.com/user-attachments/assets/53c34376-8cfd-4a4e-87f2-1cfc9398df87)
 
@@ -110,11 +110,13 @@ Rename the "ost-sampleconfig.php" to "ost-config.php"
 
 ![Lab2-21](https://github.com/user-attachments/assets/369709f1-8cbb-4a02-bd71-87e673692555)
 
-Disable the inheritance from the standard users and instead enable it for "Everyone" and give them full control.
+Right click the file and click Properties -> click Advanced Security Settings and disable the inheritance from the standard users, instead enable it for "Everyone" and give them full control.
 
 ![Lab2-22](https://github.com/user-attachments/assets/380041c0-d01c-42c4-b8e7-2e7b10d34037)
 
 ![Lab2-23](https://github.com/user-attachments/assets/7796e41f-9abf-4285-b22d-2591bd995e84)
+
+
 
 ![Lab2-24](https://github.com/user-attachments/assets/51a17e9c-1ec6-41db-a009-ace6a56128b4)
 
