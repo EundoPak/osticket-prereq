@@ -118,11 +118,6 @@ Right click the file and click Properties -> click Advanced Security Settings an
 
 
 
-![Lab2-24](https://github.com/user-attachments/assets/51a17e9c-1ec6-41db-a009-ace6a56128b4)
-
-![Lab2-25](https://github.com/user-attachments/assets/ef71a56c-fa9f-473f-b9a0-0d5e6f9ce3c8)
-
-![Lab2-26](https://github.com/user-attachments/assets/72d02522-59dd-41e0-852f-a96c0899d296)
 
 ![Lab2-27](https://github.com/user-attachments/assets/00d8fbae-a071-4348-a42a-587006fe4b9f)
 
